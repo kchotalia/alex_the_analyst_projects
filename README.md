@@ -1,4 +1,4 @@
-# alex_the_analyst_projects
-The projects following @AlexTheAnalyst Data Analyst Bootcamp on YouTube
+# Data Analytics Projects
+The projects following @AlexTheAnalyst's Data Analyst Bootcamp on YouTube (https://bit.ly/3HHqwcr).
 
 1. Excel
